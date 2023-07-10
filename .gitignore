@@ -1,0 +1,13 @@
+# ignore all logs
+*.logs
+
+package.json
+package-lock.json
+
+node_modules
+
+.eslintrc.json
+
+READEME.node_modules
+
+vite.config.ts
